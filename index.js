@@ -17,4 +17,13 @@ let answer = challenge (96);
 
 //challenge 2 Practice
 
+function challage (number, string = "")
+if (string-length!<number ){
+  console.log("string is too short")
+  return false;
+} else if (string.length==number){
+  console.log("exactmatch")
+} else if (string.length>number){
+  return-1;
+}
 
