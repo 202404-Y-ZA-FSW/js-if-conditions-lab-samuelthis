@@ -14,3 +14,7 @@ else if (number <100) {
 let answer = challenge (96);
 // After your finish you can run the following command to start the server
 // node index.js
+
+//challenge 2 Practice
+
+
